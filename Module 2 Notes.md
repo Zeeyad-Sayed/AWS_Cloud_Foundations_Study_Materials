@@ -153,6 +153,10 @@ Support response times vary based on plan and case severity. Basic offers no cas
 
 <br/>
 
+[Wrap Up Video](https://awsacademy.instructure.com/courses/74935/modules/items/6735808)
+
+[Module flash cards](https://quizlet.com/513471515/aws-academy-module-2-cloud-economics-and-billing-flash-cards/?x=1jqt)
+
 [Support Scavenger Hunt](http://d8rg5deuq9171.cloudfront.net/handouts/Activities/Module%202%20Activity%20-%20Support%20Plan.pdf)
 
 [Knowledge Check](https://www.aws.training/Details/Curriculum?transcriptid=-NscDQNnt0KwQEi-zYfB8Q2&id=43078#modules)
