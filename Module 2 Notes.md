@@ -99,7 +99,7 @@
 #### Security
 
 - Control access with AWS Identity and Access Management (IAM)
-- IAM policiesenable you to allow or deny access to AWS services for users, groups, and roles.
+- IAM policies enable you to allow or deny access to AWS services for users, groups, and roles.
 - Service control policies (SCPs) enable you to allow or deny access to AWS services for individuals or group accounts in an organizational unit (OU).
 
 #### Setup
