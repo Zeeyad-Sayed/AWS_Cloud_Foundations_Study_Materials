@@ -126,7 +126,7 @@
 - **AWS Cost and Usage Report:** Tracks your AWS usage and provides estimated charges associated with your account.
 - **AWS Cost Explorer:** Visualize, understand, and manage AWS costs and usage over time.
 
-[BillingConsole Demonstration - Billing Dashboard Video](https://awsacademy.instructure.com/courses/74935/modules/items/6735806)
+[Console Demonstration - Billing Dashboard Video](https://awsacademy.instructure.com/courses/74935/modules/items/6735806)
 
 <br/>
 
